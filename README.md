@@ -9,7 +9,7 @@
 - Angel Elsa John - Amal Jyothi College of Engineering
 
 ### Hosted Project Link
-[Project link will be added once deployed]
+https://freelance-3gfe.vercel.app/
 
 ### Project Description
 HomeAlligned Services is a comprehensive platform that connects homeowners with skilled service providers. Users can post home-related tasks, receive bids from qualified professionals, and manage service bookings through a secure and user-friendly interface.
