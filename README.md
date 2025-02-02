@@ -50,21 +50,14 @@ For Software:
 
 Screenshots (Add at least 3)
 
-![Screenshot 1](./public/img1/1.png)
+![Screenshot 1](./frontend/public/img1/1.png)
 
-![Screenshot 2](./public/img1/2.png)
+![Screenshot 2](./frontend/public/img1/2.png)
 
-![Screenshot 3](./public/img1/3.png)
-
-
+![Screenshot 3](./frontend/public/img1/3.png)
 
 
 
-
-
-#### Diagrams
-![Workflow](Add workflow diagram here)
-*Application workflow from user authentication to task completion*
 
 ### Project Demo
 #### Video
@@ -78,8 +71,4 @@ https://drive.google.com/file/d/1Ex9JorruCyt8GL6joF9NsQaojlGPXN-u/view?usp=shari
 - Angel Elsa John: Task management system, Bidding functionality
 
 ---
-<<<<<<< HEAD
 Made with ❤️ at Amal Jyothi College of Engineering
-=======
-Made with ❤️ at Amal Jyothi College of Engineering
->>>>>>> 4af62254f360ce147888ebc3d17661fbc2f0164e
