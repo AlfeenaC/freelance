@@ -1,4 +1,4 @@
-# HomeAlligned Services 🏠
+# Home Alligned Services 🏠
 
 ## Basic Details
 ### Team Name: HomeAlligned Team
