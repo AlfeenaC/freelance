@@ -49,12 +49,20 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
+<<<<<<< HEAD
 
 ![Screenshot 1](./public/img1/1.png)
 
 ![Screenshot 2](./public/img1/2.png)
 
 ![Screenshot 3](./public/img1/3.png)
+=======
+C:\Users\alfee\Desktop\freelance\frontend\public\img1\Screenshot 2025-02-02 102910.png
+
+C:\Users\alfee\Desktop\freelance\frontend\public\img1\Screenshot 2025-02-02 102935.png
+
+C:\Users\alfee\Desktop\freelance\frontend\public\img1\Screenshot 2025-02-02 102948.png
+>>>>>>> 4af62254f360ce147888ebc3d17661fbc2f0164e
 
 
 
@@ -78,4 +86,8 @@ https://drive.google.com/file/d/1Ex9JorruCyt8GL6joF9NsQaojlGPXN-u/view?usp=shari
 - Angel Elsa John: Task management system, Bidding functionality
 
 ---
+<<<<<<< HEAD
 Made with ❤️ at Amal Jyothi College of Engineering
+=======
+Made with ❤️ at Amal Jyothi College of Engineering
+>>>>>>> 4af62254f360ce147888ebc3d17661fbc2f0164e
