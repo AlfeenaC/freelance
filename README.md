@@ -1,7 +1,7 @@
 # Home Alligned Services 🏠
 
 ## Basic Details
-### Team Name: HomeAlligned Team
+### Team Name: AFX23
 
 ### Team Members
 - Anitta Jiby - Amal Jyothi College of Engineering 
