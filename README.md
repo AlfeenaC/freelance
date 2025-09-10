@@ -1,12 +1,5 @@
 # Home Alligned Services 🏠
 
-## Basic Details
-### Team Name: AFX23
-
-### Team Members
-- Anitta Jiby - Amal Jyothi College of Engineering 
-- Alfeena Charly - Amal Jyothi College of Engineering
-- Angel Elsa John - Amal Jyothi College of Engineering
 
 ### Hosted Project Link
 https://freelance-3gfe.vercel.app/
@@ -65,10 +58,5 @@ https://drive.google.com/file/d/1Ex9JorruCyt8GL6joF9NsQaojlGPXN-u/view?usp=shari
 
 *Video demonstrates the complete workflow of posting a task, bidding, and payment process*
 
-## Team Contributions
-- Anitta Jiby: Frontend development, UI/UX design
-- Alfeena Charly: Authentication system, Payment integration
-- Angel Elsa John: Task management system, Bidding functionality
 
----
-Made with ❤️ at Amal Jyothi College of Engineering
+
